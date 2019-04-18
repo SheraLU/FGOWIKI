@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/12/07 21:54:13.826.pas,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit4.pas=D:\materials\数据库\exp\Unit4.pas</Transaction>
+    <Transaction>2018/12/07 21:54:13.826.dfm,C:\Users\Administrator\Documents\RAD Studio\Projects\Unit4.dfm=D:\materials\数据库\exp\Unit4.dfm</Transaction>
+    <Transaction>2018/12/07 23:14:26.944.dproj,C:\Users\Administrator\Documents\RAD Studio\Projects\Project3.dproj=D:\materials\数据库\exp\Project3.dproj</Transaction>
+    <Transaction>2018/12/08 15:54:59.713.pas,D:\materials\数据库\exp\Unit4.pas=D:\materials\数据库\exp\Main.pas</Transaction>
+    <Transaction>2018/12/08 15:54:59.713.dfm,D:\materials\数据库\exp\Unit4.dfm=D:\materials\数据库\exp\Main.dfm</Transaction>
+    <Transaction>2018/12/08 16:08:10.819.pas,D:\materials\数据库\exp\Unit2.pas=D:\materials\数据库\exp\login.pas</Transaction>
+    <Transaction>2018/12/08 16:08:10.819.dfm,D:\materials\数据库\exp\Unit2.dfm=D:\materials\数据库\exp\login.dfm</Transaction>
+    <Transaction>2018/12/08 16:17:36.436.pas,D:\materials\数据库\exp\Main.pas=</Transaction>
+    <Transaction>2018/12/08 16:17:36.436.dfm,D:\materials\数据库\exp\Main.dfm=</Transaction>
+    <Transaction>2018/12/08 21:53:02.962.pas,D:\materials\数据库\exp\Unit1.pas=D:\materials\数据库\exp\list.pas</Transaction>
+    <Transaction>2018/12/08 21:53:02.962.dfm,D:\materials\数据库\exp\Unit1.dfm=D:\materials\数据库\exp\list.dfm</Transaction>
+    <Transaction>2018/12/09 11:28:32.808.pas,D:\materials\数据库\exp\Unit3.pas=D:\materials\数据库\exp\servant.pas</Transaction>
+    <Transaction>2018/12/09 11:28:32.808.dfm,D:\materials\数据库\exp\Unit3.dfm=D:\materials\数据库\exp\servant.dfm</Transaction>
+    <Transaction>2018/12/13 16:41:52.939.dproj,D:\materials\数据库\exp\Project3.dproj=D:\materials\数据库\exp\FGOWiki.dproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="list.pas"/>
+    <File Path="list.dfm"/>
+    <File Path="login.pas"/>
+    <File Path="login.dfm"/>
+    <File Path="Main.pas"/>
+    <File Path="Main.dfm"/>
+    <File Path="servant.pas"/>
+    <File Path="servant.dfm"/>
+    <File Path="classe.pas"/>
+    <File Path="classe.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
